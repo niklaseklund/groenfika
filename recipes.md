@@ -3,19 +3,15 @@
 ## Double crust fudge bars
 
 ### Ingredients
-| **Shortbread**           |
-|--------------------------|
-| 2 cups all-purpose flour |
-| 1/2 cup sugar            |
-| 1 cup vegan margarine    |
-| 1/2 teaspoon salt        |
 
-| **Filling**                 |
-|-----------------------------|
-| 3/4 cup canned coconut milk |
-| 1/4 cup sugar               |
-| 2 cups chocolate chips      |
-| 1/2 cup chopped walnuts     |
+`Units: imperial`
+
+| Shortbread                 | Filling                     |
+|----------------------------|-----------------------------|
+| 2 cups all-purpose flour   | 3/4 cup canned coconut milk |
+| 1/2 cup sugar              | 1/4 cup sugar               |
+| 1 cup vegan margarine      | 2 cups chocolate chips      |
+| 1/2 teaspoon salt          | 1/2 cup chopped walnuts     |
 
 ### Making
 *To make the shortbread:* Preheat the oven to 350 degrees. Lightly grease a pan and line with parchment paper long enough to overhand the edges.
