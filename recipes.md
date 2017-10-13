@@ -46,3 +46,25 @@ Bake for 35 minutes. Let cool, the chill in the refrigerator for 8 hours or over
 **2.** Häll upp karamellen i en lufttät glasburk och låt stå i kylskåpet i minst 1 h men helst över natten.
 
 *Kommentar:* Receptet ger ca 4 dl salt vegansk karamell.
+
+
+## Knäckig rabarberpaj
+
+### Ingridenser
+
+`enhet: metrisk`
+`portioner: 6`
+
+|---------------------------------------------|
+| 500 g rabarber                              |
+| 150 g smör, t ex mjölkfritt                 |
+| 0,5 dl ljus sirap                           |
+| 0,5 dl grädde, t ex havre- eller sojagrädde |
+| 2 dl vetemjöl                               |
+| 2 dl havregryn                              |
+| 2 dl strösocker                             |
+| 0,5 tsk bakpulver                           |
+| 0,5 tsk kardemumma                          |
+| 1 tsk vaniljsocker                          |
+
+Sätt ugnen på 200 grader. Skiva rabarberna och sprid ut i en gratängform. Smält ihop smör, sirap och grädde i en kastrull. Blanda ihop vetemjöl, havregryn, strösocker, bakpulver, kardemumma och vaniljsocker i en skål. Vispa ihop smörblandningen med de torra ingredienserna. När du har en väl blandad smet brer du ut den över rabarberna. Ställ in i ugnen i 30 minuter. Ta ut och låt svalna något. Servera sedan med vaniljglass eller en god vaniljsås.
