@@ -33,7 +33,6 @@ Bake for 35 minutes. Let cool, the chill in the refrigerator for 8 hours or over
 
 `enhet: metrisk`
 
-|-------------------|
 | 1 dl kokosmjölk   |
 | 1 dl tahini       |
 | 2 dl agavesirap   |
@@ -56,7 +55,6 @@ Bake for 35 minutes. Let cool, the chill in the refrigerator for 8 hours or over
 `enhet: metrisk`
 `portioner: 6`
 
-| --------------------------------------------- |
 | 500 g rabarber                                |
 | 150 g smör, t ex mjölkfritt                   |
 | 0,5 dl ljus sirap                             |
