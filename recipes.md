@@ -26,3 +26,22 @@ Bake for 35 minutes. Let cool, the chill in the refrigerator for 8 hours or over
 
 *Note:* The cookies will need to chill in the refrigerator for 8 hours or overnight before serving.
 
+
+## Vegansk salt karamell
+
+### Ingredienser
+
+`enhet: metrisk`
+|-------------------|
+| 1 dl kokosmjölk   |
+| 1 dl tahini       |
+| 2 dl agavesirap   |
+| 4 msk kokossocker |
+| 0,5 tsk salt      |
+| 2 msk maizena     |
+
+### Tillagning
+**1.** Lägg alla ingredienserna i en kastrull och rör om ordentligt till en jämn smet innan du låter den sjuda på medelvärme. Den är klar när du har en fin och jämn smet utan klumpar eller kokossocker-kristaller. Än så länge kommer karamellen att vara ganska lös, det är efter den har stått i kylskåpet som den kommer att få en härligt krämig och fast konsistens.
+**2.** Häll upp karamellen i en lufttät glasburk och låt stå i kylskåpet i minst 1 h men helst över natten.
+
+*Recepter ger ca 4 dl salt vegansk karamell.*
