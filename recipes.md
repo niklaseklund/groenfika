@@ -45,4 +45,4 @@ Bake for 35 minutes. Let cool, the chill in the refrigerator for 8 hours or over
 
 **2.** Häll upp karamellen i en lufttät glasburk och låt stå i kylskåpet i minst 1 h men helst över natten.
 
-*Recepter ger ca 4 dl salt vegansk karamell.*
+*Kommentar:* Receptet ger ca 4 dl salt vegansk karamell.
