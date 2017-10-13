@@ -70,4 +70,5 @@ Bake for 35 minutes. Let cool, the chill in the refrigerator for 8 hours or over
 | 0,5 tsk kardemumma                         |
 | 1 tsk vaniljsocker                         |
 
+### Tillagning
 Sätt ugnen på 200 grader. Skiva rabarberna och sprid ut i en gratängform. Smält ihop smör, sirap och grädde i en kastrull. Blanda ihop vetemjöl, havregryn, strösocker, bakpulver, kardemumma och vaniljsocker i en skål. Vispa ihop smörblandningen med de torra ingredienserna. När du har en väl blandad smet brer du ut den över rabarberna. Ställ in i ugnen i 30 minuter. Ta ut och låt svalna något. Servera sedan med vaniljglass eller en god vaniljsås.
