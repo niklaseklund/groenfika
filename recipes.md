@@ -1,5 +1,6 @@
 # Recipes
 
+
 ## Double crust fudge bars
 
 ### Ingredients
@@ -72,3 +73,57 @@ Bake for 35 minutes. Let cool, the chill in the refrigerator for 8 hours or over
 
 ### Tillagning
 Sätt ugnen på 200 grader. Skiva rabarberna och sprid ut i en gratängform. Smält ihop smör, sirap och grädde i en kastrull. Blanda ihop vetemjöl, havregryn, strösocker, bakpulver, kardemumma och vaniljsocker i en skål. Vispa ihop smörblandningen med de torra ingredienserna. När du har en väl blandad smet brer du ut den över rabarberna. Ställ in i ugnen i 30 minuter. Ta ut och låt svalna något. Servera sedan med vaniljglass eller en god vaniljsås.
+
+
+## Kladdkaka with chocolate frosting
+
+### Kladdkaka bottom:
+
+#### Ingridients
+
+Unit: metric
+Number of portions: 10
+
+| Ingredients        |
+|--------------------|
+| 150 g margarine    |
+| 3 dl flour         |
+| 2 dl sugar         |
+| 1 dl cacao         |
+| 3 tbsp suryp       |
+| 1 1/4 dl soy cream | 
+
+#### Procedure
+* Heat the oven to 175 degrees.
+* Mix the dry ingredients.
+* Melt the margarine in a pot. Add suryp and mix well. Add soy cream and stir.
+* Mix the dry ingredients with the melted ingredients.
+* Pour the mixture into a buttered circular baking pan (20-25 cm in diameter).
+* Put in the oven and keep there for a maximum of 19 minutes. Check after 15 min and then take the cake out when deemed sufficiently solid while still being sticky.
+
+### Chocolate frosting
+
+#### Ingredients (converted from cups to g)
+
+Unit: metric 
+
+| Ingredients                                                      |
+|------------------------------------------------------------------|
+| 225 g margarine                                                  |
+| 315-375 g powdered sugar (florsocker)                            |
+| 80 g cocoa powder                                                |
+| 30 g dark vegan chocolate (e.g., 55% dark baking chocolate)      |
+| 2 tbsp pure vanilla extract (can be replaced with vanilla sugar) |
+1.2 dl of hazelnut milk (can be replaced by almond milk)           |
+
+#### Procedure
+* Melt the chocolate gently.
+* Beat all ingredients for the frosting together until light and fluffy.
+* Add more powdered sugar in small amounts until you reach your desired consistency and sweetness.
+* If it becomes too thick, add more hazelnut milk. If it’s too thin, add more cocoa powder or powdered sugar.
+
+
+
+ 
+
+
