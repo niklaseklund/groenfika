@@ -90,7 +90,7 @@ Number of portions: 10
 | 3 dl flour         |
 | 2 dl sugar         |
 | 1 dl cacao         |
-| 3 tbsp suryp       |
+| 3 tbsp syrup       |
 | 1 1/4 dl soy cream | 
 
 #### Procedure
