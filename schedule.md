@@ -2,15 +2,16 @@
 
 | Week   | Responsible   |
 | ------ | ------------- |
-| 42     | Daniel        |
-| 43     | Prem          |
-| 44     | David         |
-| 45     | Christopher   |
-| 47     | Joachim       |
-| 48     | Maryam        |
-| 49     | Emma          |
-| 50     | Abu           |
-| 51     | Benjamin      |
+| 02     | Tobias        |
+| 03     | Daniel        |
+| 04     | Niklas        |
+| 05     | David         |
+| 06     | Christopher   |
+| 07     | Joachim       |
+| 08     | Maryam        |
+| 09     | Emma          |
+| 10     | Abu           |
+| 11     | Benjamin      |
 
 Examples of animal products in fika:
 mjölk, smör, skummjölkspulver, vasslepulver, mjölkprotein, bivax(E901), ägg, honung, gelatin, karmin(E120)
