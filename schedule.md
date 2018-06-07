@@ -6,8 +6,8 @@
 | 22     | Benjamin      |
 | 23     | Tobias        |
 | 24     | Daniel        |
-| 25     | Niklas        |
-| 26     | David         |
+| 25     | David         |
+| 26     | Niklas        |
 | 27     | Christopher   |
 | 28     | Joachim       |
 | 29     | Emma          |
