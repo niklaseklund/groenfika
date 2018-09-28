@@ -13,6 +13,7 @@
 | 41     | Jesper        |
 | 42     | Andreas       |
 | 43     | Elisabet      |
+| 44     | Tomas         |
 
 Examples of animal products in fika:
 mjölk, smör, skummjölkspulver, vasslepulver, mjölkprotein, bivax(E901), ägg, honung, gelatin, karmin(E120)
