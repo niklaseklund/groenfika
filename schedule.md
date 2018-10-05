@@ -1,7 +1,7 @@
 # Grönfika schedule
 
-| Week   | Responsible   |
-| ------ | ------------- |
+|  Week  |  Responsible  |
+|--------|---------------|
 | 33     | Abu           |
 | 34     | Benjamin      |
 | 35     | Tobias        |
@@ -14,6 +14,7 @@
 | 42     | Andreas       |
 | 43     | Elisabet      |
 | 44     | Tomas         |
+| 45     | Joakim        |
 
 Examples of animal products in fika:
 mjölk, smör, skummjölkspulver, vasslepulver, mjölkprotein, bivax(E901), ägg, honung, gelatin, karmin(E120)
