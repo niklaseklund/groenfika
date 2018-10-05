@@ -123,6 +123,26 @@ Unit: metric
 * If it becomes too thick, add more hazelnut milk. If it’s too thin, add more cocoa powder or powdered sugar.
 
 
+## Vit kladdkaka med citron och bär
+
+Den här kakan kan göras med citronsmak eller med saffran. 
+
+### Ingredienser
+
+| Ingredienser                                |
+|---------------------------------------------|
+| 100 g margarin                              |
+| 100 g vit choklad                           |
+| 1 st  citron, rivet skal (alt. 1pkt saffran)|
+| 2.5 dl vetemjöl                             |
+| 1 dl aquafaba (kikärtsspad)                 |
+| 2 dl strösocker                             |
+| 2 krm salt                                  |
+| 1 dl bär                                    |
+| 2 msk rom (alt vegansk mjölk eller vatten)  |
+
+### Tillagning
+Värm ugnen till 200°C. Smörj och bröa en form på 22-24 centimeter. Smält margarin. Bryt chokladen i bitar och rör mer i margarinet tills bitarna smält. Riv ner det yttersta skalet av citronen om du har med citron. Vispa upp strösocker och aquafaba i en köksassistent eller med en elvisp tills det blir vitt, tjockt och pösigt.  Vänd sedan föriktigt ner vetemjöl, salt och det smälta fettet. Häll upp i formen och grädda kakan i mitten av ugnen i 200°C i 12-20 minuter beroende på formens storlek och ugn. Bakar jag i en form på 20 centimeter gräddar jag vanligtvis 15 minuter och i en större form kan den kortare tiden räcka men se till att kakan har blivit vackert gyllene. Servera varm, ljummen eller kall.
 
  
 
