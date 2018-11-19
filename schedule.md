@@ -3,8 +3,8 @@
 | Week | Responsible |
 |------|-------------|
 | 47   | Abu         |
-| 48   | Benjamin    |
-| 49   | Tobias      |
+| 48   | Tobias      |
+| 49   | Benjamin    |
 | 50   | Daniel      |
 | 51   | David       |
 |      | Niklas      |
