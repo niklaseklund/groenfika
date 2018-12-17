@@ -5,8 +5,8 @@
 | 47   | Abu         |
 | 48   | Tobias      |
 | 49   | Benjamin    |
-| 50   | Daniel      |
-| 51   | David       |
+| 50   | David       |
+| 51   | Daniel      |
 |      | Niklas      |
 |      | Joachim     |
 |      | Emma        |
