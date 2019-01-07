@@ -9,13 +9,12 @@
 | 6    | Andreas     |
 | 7    | Elisabet    |
 | 8    | Joakim      |
-| 9    | Mikhail     |
-| 10   | Tomas       |
-| 11   | Abu         |
-| 12   | Tobias      |
-| 13   | Benjamin    |
-| 14   | David       |
-| 15   | Daniel      |
+| 9    | Tomas       |
+| 10   | Abu         |
+| 11   | Tobias      |
+| 12   | Benjamin    |
+| 13   | David       |
+| 14   | Daniel      |
 
 Examples of animal products in fika:
 mjölk, smör, skummjölkspulver, vasslepulver, mjölkprotein, bivax(E901), ägg, honung, gelatin, karmin(E120)
