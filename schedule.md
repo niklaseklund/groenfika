@@ -2,11 +2,11 @@
 
 | Week | Responsible |
 | ---- | ----------- |
-| 15   | Niklas      |
-| 16   | Serkan      |
-| 17   | Albin       |
-| 18   | Christopher |
-| 19   | Mikael      |
+| 15   | Anders      |
+| 16   | Albin       |
+| 17   | Serkan      |
+| 18   | Mikael      |
+| 19   | Niklas      |
 | 20   | Joachim     |
 | 21   | Emma        |
 | 22   | Jesper      |
