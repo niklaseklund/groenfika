@@ -38,22 +38,6 @@
 - karmin(E120)
 
 * Recipes
-* Inspiration
-** Karolin Tegelaar
-Swedish cook-book author
-https://www.instagram.com/swedishvegan/?hl=sv
-
-** Minimalistic Baker
-Vegan and gluten free
-https://www.instagram.com/minimalistbaker/
-
-** Mattias Kristiansson
-Author and creator of Sweden's first vegan magazine
-https://www.instagram.com/mattias_kristiansson/
-
-** Naturally.Jo
-Colorful vegan food and pastries
-https://www.instagram.com/naturally.jo/
 ** Double crust fudge bars
 
 *** Ingredients
@@ -238,3 +222,19 @@ beroende på formens storlek och ugn. Bakar jag i en form på 20 centimeter
 gräddar jag vanligtvis 15 minuter och i en större form kan den kortare tiden
 räcka men se till att kakan har blivit vackert gyllene. Servera varm, ljummen
 eller kall.
+* Inspiration
+** Karolin Tegelaar
+Swedish cook-book author
+https://www.instagram.com/swedishvegan/?hl=sv
+
+** Minimalistic Baker
+Vegan and gluten free
+https://www.instagram.com/minimalistbaker/
+
+** Mattias Kristiansson
+Author and creator of Sweden's first vegan magazine
+https://www.instagram.com/mattias_kristiansson/
+
+** Naturally.Jo
+Colorful vegan food and pastries
+https://www.instagram.com/naturally.jo/
