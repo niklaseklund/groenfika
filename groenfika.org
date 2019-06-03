@@ -7,9 +7,8 @@
 |   22 | Emma        |
 |   23 | Jesper      |
 |   24 | Elisabet    |
-|   25 | Andreas     |
-|   26 | Joakim      |
-|   27 | Tomas       |
+|   25 | Joakim      |
+|   26 | Tomas       |
 |   32 | Maryam      |
 |   33 | Tobias      |
 |   34 | Benjamin    |
