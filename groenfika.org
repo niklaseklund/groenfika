@@ -9,18 +9,18 @@
 |   24 | Elisabet    |
 |   25 | Joakim      |
 |   26 | Tomas       |
-|   32 | Maryam      |
-|   33 | Tobias      |
-|   34 | Benjamin    |
-|   35 | Daniel      |
-|   36 | David       |
-|   37 | Anders      |
-|   39 | Albin       |
-|   40 | Serkan      |
-|   41 | Mikael      |
-|   42 | Niklas      |
-|   43 | Gergo       |
-|   44 | Joachim     |
+|   34 | Maryam      |
+|   35 | Tobias      |
+|   36 | Benjamin    |
+|   37 | Daniel      |
+|   38 | David       |
+|   39 | Anders      |
+|   40 | Albin       |
+|   41 | Serkan      |
+|   42 | Mikael      |
+|   43 | Niklas      |
+|   44 | Gergo       |
+|   45 | Joachim     |
 
 * Tips and tricks
 
