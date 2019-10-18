@@ -17,10 +17,9 @@
 |   39 | Anders      |
 |   40 | Albin       |
 |   41 | Serkan      |
-|   42 | Mikael      |
-|   43 | Niklas      |
-|   44 | Gergo       |
-|   45 | Joachim     |
+|   42 | Niklas      |
+|   43 | Gergo       |
+|   44 | Joachim     |
 
 * Tips and tricks
 
