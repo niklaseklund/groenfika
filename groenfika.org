@@ -4,22 +4,22 @@
 
 | Week | Responsible |
 |------+-------------|
-|   22 | Emma        |
-|   23 | Jesper      |
-|   24 | Elisabet    |
-|   25 | Joakim      |
-|   26 | Tomas       |
-|   34 | Maryam      |
-|   35 | Tobias      |
-|   36 | Benjamin    |
-|   37 | Daniel      |
-|   38 | David       |
-|   39 | Anders      |
-|   40 | Albin       |
-|   41 | Serkan      |
-|   42 | Niklas      |
-|   43 | Gergo       |
 |   44 | Joachim     |
+|   45 | Gergo       |
+|   46 | Jesper      |
+|   47 | Elisabet    |
+|   48 | Joakim      |
+|   49 | Tomas       |
+|   50 | Maryam      |
+|    2 | Tobias      |
+|    3 | Benjamin    |
+|    4 | Daniel      |
+|    5 | David       |
+|    6 | Anders      |
+|    7 | Albin       |
+|    8 | Serkan      |
+|    9 | Niklas      |
+|   10 | Emma        |
 
 * Tips and tricks
 
