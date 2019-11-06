@@ -4,8 +4,8 @@
 
 | Week | Responsible |
 |------+-------------|
-|   44 | Joachim     |
-|   45 | Gergo       |
+|   44 | Gergo       |
+|   45 | Joachim     |
 |   46 | Jesper      |
 |   47 | Elisabet    |
 |   48 | Joakim      |
