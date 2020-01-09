@@ -18,10 +18,11 @@
 |    7 | Anders      |
 |    8 | Albin       |
 |    9 | Serkan      |
-|    10 | Niklas      |
+|   10 | Niklas      |
 |   11 | Emma        |
 |   12 | Andreas     |
 |   13 | Abu         |
+|   14 | Eduardo     |
 
 * Tips and tricks
 
