@@ -15,11 +15,11 @@
 |    4 | Benjamin    |
 |    5 | Daniel      |
 |    6 | David       |
-|    7 | Anders      |
+|    7 | Emma        |
 |    8 | Albin       |
 |    9 | Serkan      |
 |   10 | Niklas      |
-|   11 | Emma        |
+|   11 | Anders      |
 |   12 | Andreas     |
 |   13 | Abu         |
 |   14 | Eduardo     |
