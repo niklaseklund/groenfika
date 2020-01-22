@@ -23,6 +23,7 @@
 |   12 | Andreas     |
 |   13 | David       |
 |   14 | Eduardo     |
+|   15 | Joakim LS   |
 
 * Tips and tricks
 
