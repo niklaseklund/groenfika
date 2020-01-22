@@ -14,12 +14,12 @@
 |    3 | Tobias      |
 |    4 | Benjamin    |
 |    5 | Daniel      |
-|    6 | Abu         |
-|    7 | Anders      |
+|    6 | David       |
+|    7 | Emma        |
 |    8 | Albin       |
 |    9 | Serkan      |
 |   10 | Niklas      |
-|   11 | Emma        |
+|   11 | Anders      |
 |   12 | Andreas     |
 |   13 | David       |
 |   14 | Eduardo     |
