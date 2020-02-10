@@ -6,14 +6,14 @@
 |------+-------------|
 |   44 | Gergo       |
 |   45 | Joachim     |
-|   46 | Markus      |
+|   46 | -           |
 |   47 | Elisabet    |
 |   49 | Joakim      |
 |   50 | Tomas       |
 |    2 | Maryam      |
 |    3 | Tobias      |
 |    4 | Benjamin    |
-|    5 | Daniel      |
+|    5 | Eduardo     |
 |    6 | David       |
 |    7 | Emma        |
 |    8 | Albin       |
@@ -22,7 +22,7 @@
 |   11 | Anders      |
 |   12 | Andreas     |
 |   13 | David       |
-|   14 | Eduardo     |
+|   14 | Daniel      |
 |   15 | Joakim LS   |
 
 * Tips and tricks
